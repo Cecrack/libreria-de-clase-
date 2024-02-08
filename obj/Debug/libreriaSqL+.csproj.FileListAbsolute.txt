@@ -1,0 +1,6 @@
+C:\Users\cecra\source\repos\libreriaSqL+\libreriaSqL+\bin\Debug\libreriaSqL+.dll
+C:\Users\cecra\source\repos\libreriaSqL+\libreriaSqL+\bin\Debug\libreriaSqL+.pdb
+C:\Users\cecra\source\repos\libreriaSqL+\libreriaSqL+\obj\Debug\libreriaSqL+.csproj.AssemblyReference.cache
+C:\Users\cecra\source\repos\libreriaSqL+\libreriaSqL+\obj\Debug\libreriaSqL+.csproj.CoreCompileInputs.cache
+C:\Users\cecra\source\repos\libreriaSqL+\libreriaSqL+\obj\Debug\libreriaSqL+.dll
+C:\Users\cecra\source\repos\libreriaSqL+\libreriaSqL+\obj\Debug\libreriaSqL+.pdb
